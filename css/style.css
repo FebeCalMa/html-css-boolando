@@ -22,3 +22,6 @@ main{
 .debug .container{
     border: 2px dashed red;
 }
+
+.debug main{
+}
