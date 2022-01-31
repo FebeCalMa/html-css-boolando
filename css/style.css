@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*Inizio layout*/
+.container{
+    width: 70%;
+    margin: 15px auto;
+}
+
+main{
+    margin-left: 9%;
+}
+
+.container img{
+    width: 30%;
+}
+
+/*Inizio debug*/
+.debug .container{
+    border: 2px dashed red;
+}
